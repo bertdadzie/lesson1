@@ -1,0 +1,15 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "First Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/bertdadzie/lesson1.git"
+  },
+  "author": "Robert dadzie",
+  "license": "ISC"
+}
